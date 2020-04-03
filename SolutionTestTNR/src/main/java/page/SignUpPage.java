@@ -1,4 +1,4 @@
-package E2ETest.page;
+package page;
 
 public class SignUpPage {
 

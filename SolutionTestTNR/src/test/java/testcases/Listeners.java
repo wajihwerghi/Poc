@@ -6,7 +6,7 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import E2ETest.base.BaseTest;
+import base.BaseTest;
 
 public class Listeners implements ITestListener {
 	BaseTest p = new BaseTest();

@@ -1,4 +1,4 @@
-package E2ETest.base;
+package base;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -15,8 +15,8 @@ import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-import E2ETest.util.TestUtil;
 import io.github.bonigarcia.wdm.WebDriverManager;
+import util.TestUtil;
 
 
 

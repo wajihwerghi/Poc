@@ -1,10 +1,10 @@
-package E2ETest.page;
+package page;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import E2ETest.base.BaseTest;
+import base.BaseTest;
 
 public class LoginPage extends BaseTest  {
 	@FindBy(name="session_key")
