@@ -1,0 +1,6 @@
+E2ETest\page\HomePage.class
+E2ETest\page\SignUpPage.class
+E2ETest\util\TestUtil.class
+E2ETest\ExtentReport\ExtentReport.class
+E2ETest\base\BaseTest.class
+E2ETest\page\LoginPage.class
