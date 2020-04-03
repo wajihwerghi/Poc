@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name=" Test Automation Suite" duration-ms="52827" started-at="2020-03-14T04:05:38Z" finished-at="2020-03-14T04:06:30Z">
+  <suite name="Default suite" duration-ms="67724" started-at="2020-04-03T17:59:28Z" finished-at="2020-04-03T18:00:36Z">
     <groups>
     </groups>
-    <test name=" Test" duration-ms="52827" started-at="2020-03-14T04:05:38Z" finished-at="2020-03-14T04:06:30Z">
+    <test name="Default test" duration-ms="67724" started-at="2020-04-03T17:59:28Z" finished-at="2020-04-03T18:00:36Z">
       <class name="testcases.LoginTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginTest@7e744f43]" name="setUp" is-config="true" duration-ms="26230" started-at="2020-03-14T05:05:38Z" finished-at="2020-03-14T05:06:04Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginTest@5e3a8624]" name="setUp" is-config="true" duration-ms="29243" started-at="2020-04-03T19:59:28Z" finished-at="2020-04-03T19:59:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:testcases.LoginTest@7e744f43]" name="loginPageTitleTest" duration-ms="32" started-at="2020-03-14T05:06:04Z" finished-at="2020-03-14T05:06:04Z">
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:testcases.LoginTest@5e3a8624]" name="loginPageTitleTest" duration-ms="45" started-at="2020-04-03T19:59:58Z" finished-at="2020-04-03T19:59:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPageTitleTest -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@7e744f43]" name="TearDown" is-config="true" duration-ms="692" started-at="2020-03-14T05:06:04Z" finished-at="2020-03-14T05:06:05Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@5e3a8624]" name="TearDown" is-config="true" duration-ms="900" started-at="2020-04-03T19:59:58Z" finished-at="2020-04-03T19:59:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginTest@7e744f43]" name="setUp" is-config="true" duration-ms="12799" started-at="2020-03-14T05:06:05Z" finished-at="2020-03-14T05:06:18Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.LoginTest@5e3a8624]" name="setUp" is-config="true" duration-ms="12609" started-at="2020-04-03T19:59:59Z" finished-at="2020-04-03T20:00:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest()[pri:2, instance:testcases.LoginTest@7e744f43]" name="loginTest" duration-ms="10570" started-at="2020-03-14T05:06:18Z" finished-at="2020-03-14T05:06:28Z">
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:testcases.LoginTest@5e3a8624]" name="loginTest" duration-ms="23412" started-at="2020-04-03T20:00:11Z" finished-at="2020-04-03T20:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@7e744f43]" name="TearDown" is-config="true" duration-ms="1543" started-at="2020-03-14T05:06:29Z" finished-at="2020-03-14T05:06:30Z">
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:testcases.LoginTest@5e3a8624]" name="TearDown" is-config="true" duration-ms="1401" started-at="2020-04-03T20:00:35Z" finished-at="2020-04-03T20:00:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TearDown -->
       </class> <!-- testcases.LoginTest -->
-    </test> <!--  Test -->
-  </suite> <!--  Test Automation Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
